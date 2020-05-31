@@ -80,8 +80,24 @@
 		"paragraphOne": "I am always interested in learning new skills and increase my knowledge.",
 		"paragraphTwo": "Apart from being a mobile app developer, I host a youtube channel named 'Tech Soutions' which is technology related. Most of my videos are about solving issues related to mobile and PC. "
 	},
-	"awards": [{
+	"awards": [
+		{
 			"awardDetail": "2nd Prize in Presentation about Ethical Hacking, Aagama 2k18-Anurag College."
+		},
+		{
+			"awardDetail": "IBM AI Engineering Professional Certification, Coursera"
+		},
+		{
+			"awardDetail": "Python 3 Programming Certification, Coursera"
+		},
+		{
+			"awardDetail": "Python for Everybody Certification, Coursera"
+		},
+		{
+			"awardDetail": "Introduction to HTMl Certification, Coursera"
+		},
+		{
+			"awardDetail": "Flutter: Mobile App Development Certification, Udemy"
 		}
 	]
 }
