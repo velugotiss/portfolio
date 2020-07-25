@@ -10,11 +10,18 @@
 	},
 	"experience": [
 		{
+				"position": "Jr Software Engineer",
+				"organization": "Gridlex Services Ltd.",
+				"aboutWork": "Responsible for building the mobile applications using flutter.",
+				"fromDate": "July 2020",
+				"toDate": "Present"
+		},
+		{
 				"position": "Mobile App Developer Intern",
 				"organization": "Viven Infomedia",
 				"aboutWork": "Responsible for building the mobile applications using flutter.",
 				"fromDate": "May 2019",
-				"toDate": "Present"
+				"toDate": "June 2020"
 		},
 		{
 			"position": "Campus Ambassador",
