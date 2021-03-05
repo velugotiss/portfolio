@@ -34,9 +34,9 @@
 	"education": [{
 			"university": "Kommuri Pratap Reddy Institute of Technology, Ghatkesar",
 			"degree": "Bachelor of Technology, Computer Science",
-			"gpa": "6.8/10",
+			"gpa": "7.0/10",
 			"fromDate": "August 2016",
-			"toDate": "Present"
+			"toDate": "September 2020"
 		},
 		{
 			"university": "NRI Junior College, Nizampet, Hyderabad",
@@ -84,7 +84,7 @@
 		}
 	],
 	"interests": {
-		"paragraphOne": "I am always interested in learning new skills and increase my knowledge.",
+		"paragraphOne": "I am always interested in learning new skills and improve my knowledge.",
 		"paragraphTwo": "Apart from being a mobile app developer, I host a youtube channel named 'Tech Soutions' which is technology related. Most of my videos are about solving issues related to mobile and PC. "
 	},
 	"awards": [

@@ -10,14 +10,14 @@ class Landing extends Component {
   }
   render() {
     return (
-      <section class="resume-section" id="about">
-        <div class="resume-section-content">
-          <h1 class="mb-0">{this.landingData.firstName} <span class="text-primary">{this.landingData.lastName}</span></h1>
-          <div class="subheading mb-5">{this.landingData.phoneNumber} · <a
+      <section className="resume-section" id="about">
+        <div className="resume-section-content">
+          <h1 className="mb-0">{this.landingData.firstName} <span className="text-primary">{this.landingData.lastName}</span></h1>
+          <div className="subheading mb-5">{this.landingData.phoneNumber} · <a
             href="mailto:{this.landingData.email}">{this.landingData.email} · </a></div>
-          <p class="lead mb-5">{this.landingData.bio}</p>
-          <div class="social-icons">
-            <a class="social-icon" href={this.landingData.linkedin}><FontAwesomeIcon icon={faLinkedin} /></a><a class="social-icon"
+          <p className="lead mb-5">{this.landingData.bio}</p>
+          <div className="social-icons">
+            <a className="social-icon" href={this.landingData.linkedin}><FontAwesomeIcon icon={faLinkedin} /></a><a className="social-icon"
               href={this.landingData.github}><FontAwesomeIcon icon={faGithub} /></a>
           </div>
         </div>
