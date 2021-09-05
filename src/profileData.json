@@ -2,8 +2,8 @@
 	"landing": {
 		"firstName": "Harivamshi",
 		"lastName": "Diddiga",
-		"phoneNumber": "+91-7671083299",
-		"bio": "Currently working as Software Developer at Gridlex Services Pvt Ltd.",
+		"phoneNumber": "+1 631-820-5839",
+		"bio": "Currently pursuing Master's in Computer Science at University of Alabama, Birmingham.",
     "email": "harivamshididdiga@gmail.com",
     "linkedin": "https://www.linkedin.com/in/harivamshi-diddiga/",
 		"github": "https://github.com/harivamshi81189"
@@ -14,7 +14,7 @@
 				"organization": "Gridlex Services Ltd.",
 				"aboutWork": "Responsible for building the mobile applications using flutter and web aplications using django.",
 				"fromDate": "July 2020",
-				"toDate": "Present"
+				"toDate": "July 2021"
 		},
 		{
 				"position": "Mobile App Developer",
@@ -32,6 +32,13 @@
 		}
 	],
 	"education": [{
+			"university": "University of Alabama, Birmingham",
+			"degree": "Masters, Computer Science",
+			"gpa": "",
+			"fromDate": "August 2021",
+			"toDate": "Present"
+		},
+		{
 			"university": "Kommuri Pratap Reddy Institute of Technology, Ghatkesar",
 			"degree": "Bachelor of Technology, Computer Science",
 			"gpa": "7.0/10",
@@ -56,6 +63,9 @@
 			"name": "Python"
 		},
 		{
+			"name": "Django"
+		},
+		{
 			"name": "C Programming"
 		},
 		{
@@ -69,6 +79,9 @@
 		},
 		{
 			"name": "Java"
+		},
+		{
+			"name": "Postgres SQL"
 		},
 		{
 			"name": "Adobe Photoshop"
