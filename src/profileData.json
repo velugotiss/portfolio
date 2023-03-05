@@ -10,16 +10,30 @@
 	},
 	"experience": [
 		{
+				"position": "Software Architect and Data Scientist",
+				"organization": "Gridlex Inc",
+				"aboutWork": "Responsible for gathering client requirements to analyze the data and build algorithms for website development using Python-Django",
+				"fromDate": "December 2022",
+				"toDate": "Present"
+		},
+		{
+				"position": "Analyst Intern",
+				"organization": "Gridlex Inc",
+				"aboutWork": "Responsible for gathering client requirements to analyze the data and build algorithms for website development using Python-Django",
+				"fromDate": "September 2022",
+				"toDate": "December 2022"
+		},
+		{
 				"position": "Software Engineer",
 				"organization": "Gridlex Services Ltd.",
-				"aboutWork": "Responsible for building the mobile applications using flutter and web aplications using django.",
+				"aboutWork": "Responsible for building the mobile applications using Flutter and web aplications using Python-Django.",
 				"fromDate": "July 2020",
 				"toDate": "July 2021"
 		},
 		{
 				"position": "Mobile App Developer",
 				"organization": "Viven Infomedia",
-				"aboutWork": "Responsible for building the mobile applications using flutter.",
+				"aboutWork": "Responsible for building the mobile applications using Flutter.",
 				"fromDate": "May 2019",
 				"toDate": "June 2020"
 		},
@@ -34,9 +48,9 @@
 	"education": [{
 			"university": "University of Alabama, Birmingham",
 			"degree": "Masters, Computer Science",
-			"gpa": "",
+			"gpa": "3.98/4.0",
 			"fromDate": "August 2021",
-			"toDate": "Present"
+			"toDate": "December 2022"
 		},
 		{
 			"university": "Kommuri Pratap Reddy Institute of Technology, Ghatkesar",
