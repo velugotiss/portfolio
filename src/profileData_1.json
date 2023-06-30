@@ -1,0 +1,138 @@
+{
+	"landing": {
+		"firstName": "Harivamshi",
+		"lastName": "Diddiga",
+		"phoneNumber": "+1 631-820-5839",
+		"bio": "Software Developer with 4 years of Experience",
+		"email": "harivamshididdiga@gmail.com",
+		"linkedin": "https://www.linkedin.com/in/harivamshi-diddiga/",
+		"github": "https://github.com/harivamshi81189"
+	},
+	"experience": [
+		{
+			"position": "Software Developer",
+			"organization": "Gridlex Inc",
+			"aboutWork": "Responsible for gathering client requirements to analyze the data and build algorithms for website development using Python-Django",
+			"fromDate": "September 2022",
+			"toDate": "May 2023"
+		},
+		{
+			"position": "Research Assistant",
+			"organization": "University of Albama at Birmingham",
+			"aboutWork": "Built a mobile application for CV anesthesia trainees' CIED curriculum using Flutter.",
+			"fromDate": "September 2021",
+			"toDate": "August 2022"
+		},
+		{
+			"position": "Software Developer",
+			"organization": "Gridlex Services",
+			"aboutWork": "Responsible for building the mobile applications using Flutter and web aplications using Python-Django.",
+			"fromDate": "July 2020",
+			"toDate": "July 2021"
+		},
+		{
+			"position": "Software Developer",
+			"organization": "Viven Infomedia",
+			"aboutWork": "Responsible for building the mobile applications using Flutter.",
+			"fromDate": "May 2019",
+			"toDate": "June 2020"
+		},
+		{
+			"position": "Campus Ambassador",
+			"organization": "Plunes Technology",
+			"aboutWork": "Responsible for encouraging students to participate in the debates conducted by plunes.",
+			"fromDate": "December 2017",
+			"toDate": "May 2018"
+		}
+	],
+	"education": [
+		{
+			"university": "University of Alabama, Birmingham",
+			"degree": "Masters, Computer Science",
+			"gpa": "3.88/4.0",
+			"fromDate": "August 2021",
+			"toDate": "December 2022"
+		},
+		{
+			"university": "Kommuri Pratap Reddy Institute of Technology, Ghatkesar",
+			"degree": "Bachelor of Technology, Computer Science",
+			"gpa": "7.16/10",
+			"fromDate": "August 2016",
+			"toDate": "September 2020"
+		}
+	],
+	"skills": [
+		{
+			"name": "Flutter"
+		},
+		{
+			"name": "Dart"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "Django"
+		},
+		{
+			"name": "C/C++"
+		},
+		{
+			"name": "HTML5"
+		},
+		{
+			"name": "CSS"
+		},
+		{
+			"name": "Java"
+		},
+		{
+			"name": "Postgres SQL"
+		},
+		{
+			"name": "Adobe Photoshop"
+		},
+		{
+			"name": "Adobe Premiere Pro"
+		},
+		{
+			"name": "Microsoft Office"
+		},
+		{
+			"name": "Camtasia"
+		},
+		{
+			"name": "Docker"
+		},
+		{
+			"name": "Kubernetes"
+		},
+		{
+			"name": "Jenkins"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Always interested in learning new skills and improve my knowledge.",
+		"paragraphTwo": "Hosting a youtube channel named 'Tech Soutions' which is technology related. Most of the videos are about solving issues related to mobile and PC. "
+	},
+	"awards": [
+		{
+			"awardDetail": "2nd Prize in Presentation about Ethical Hacking, Aagama 2k18-Anurag College."
+		},
+		{
+			"awardDetail": "IBM AI Engineering Professional Certification, Coursera"
+		},
+		{
+			"awardDetail": "Python 3 Programming Certification, Coursera"
+		},
+		{
+			"awardDetail": "Python for Everybody Certification, Coursera"
+		},
+		{
+			"awardDetail": "Introduction to HTMl Certification, Coursera"
+		},
+		{
+			"awardDetail": "Flutter: Mobile App Development Certification, Udemy"
+		}
+	]
+}
