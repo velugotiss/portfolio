@@ -2,47 +2,46 @@
 	"landing": {
 		"firstName": "Harivamshi",
 		"lastName": "Diddiga",
-		"phoneNumber": "+1 631-820-5839",
-		"bio": "Software Developer with 4 years of Experience",
-		"email": "harivamshididdiga@gmail.com",
-		"linkedin": "https://www.linkedin.com/in/harivamshi-diddiga/",
-		"github": "https://github.com/harivamshi81189"
+		"phoneNumber": "+1 205-730-5871",
+		"bio": "Software Developer with 7+ years of Experience",
+		"email": "dharivamshi@gmail.com",
+		"linkedin": "https://www.linkedin.com/in/harivamshi-d/"
 	},
 	"experience": [
 		{
-			"position": "Software Developer",
-			"organization": "Gridlex Inc",
-			"aboutWork": "Responsible for gathering client requirements to analyze the data and build algorithms for website development using Python-Django",
-			"fromDate": "September 2022",
-			"toDate": "May 2023"
+			"position": "Full Stack Developer",
+			"organization": "Western Alliance Bank",
+			"aboutWork": "",
+			"fromDate": "April 2021",
+			"toDate": ""
 		},
 		{
-			"position": "Research Assistant",
-			"organization": "University of Albama at Birmingham",
-			"aboutWork": "Built a mobile application for CV anesthesia trainees' CIED curriculum using Flutter.",
-			"fromDate": "September 2021",
-			"toDate": "August 2022"
+			"position": "Full Stack Developer",
+			"organization": "Discount Tire",
+			"aboutWork": "",
+			"fromDate": "October 2019",
+			"toDate": "March 2021"
 		},
 		{
-			"position": "Software Developer",
-			"organization": "Gridlex Services",
-			"aboutWork": "Responsible for building the mobile applications using Flutter and web aplications using Python-Django.",
-			"fromDate": "July 2020",
-			"toDate": "July 2021"
+			"position": "Full Stack Developer",
+			"organization": "Continental Message Solutions",
+			"aboutWork": "",
+			"fromDate": "February 2018",
+			"toDate": "September 2019"
 		},
 		{
-			"position": "Software Developer",
-			"organization": "Viven Infomedia",
-			"aboutWork": "Responsible for building the mobile applications using Flutter.",
-			"fromDate": "May 2019",
-			"toDate": "June 2020"
+			"position": "J2EE/Java Developer",
+			"organization": "Docusign",
+			"aboutWork": "",
+			"fromDate": "March 2017",
+			"toDate": "January 2018"
 		},
 		{
-			"position": "Campus Ambassador",
-			"organization": "Plunes Technology",
-			"aboutWork": "Responsible for encouraging students to participate in the debates conducted by plunes.",
-			"fromDate": "December 2017",
-			"toDate": "May 2018"
+			"position": "Java Developer",
+			"organization": "Unacademy",
+			"aboutWork": "",
+			"fromDate": "February 2017",
+			"toDate": "June 2016"
 		}
 	],
 	"education": [
@@ -52,54 +51,47 @@
 			"gpa": "3.88/4.0",
 			"fromDate": "August 2021",
 			"toDate": "December 2022"
-		},
-		{
-			"university": "Kommuri Pratap Reddy Institute of Technology, Ghatkesar",
-			"degree": "Bachelor of Technology, Computer Science",
-			"gpa": "7.16/10",
-			"fromDate": "August 2016",
-			"toDate": "September 2020"
 		}
 	],
 	"skills": [
 		{
-			"name": "Flutter"
+			"name": "Java 11"
 		},
 		{
-			"name": "Dart"
+			"name": "JavaScript (ES-9)"
 		},
 		{
-			"name": "Python"
+			"name": "Spring"
 		},
 		{
-			"name": "Django"
+			"name": "RESTful APIs"
 		},
 		{
-			"name": "C/C++"
+			"name": "SOAP APIs"
 		},
 		{
-			"name": "HTML5"
+			"name": "Kafka"
 		},
 		{
-			"name": "CSS"
+			"name": "Grafana"
 		},
 		{
-			"name": "Java"
+			"name": "React"
 		},
 		{
-			"name": "Postgres SQL"
+			"name": "Angular"
 		},
 		{
-			"name": "Adobe Photoshop"
+			"name": "Postgres"
 		},
 		{
-			"name": "Adobe Premiere Pro"
+			"name": "MongoDB"
 		},
 		{
-			"name": "Microsoft Office"
+			"name": "JUnit 5"
 		},
 		{
-			"name": "Camtasia"
+			"name": "Mockito"
 		},
 		{
 			"name": "Docker"
@@ -116,9 +108,6 @@
 		"paragraphTwo": "Hosting a youtube channel named 'Tech Soutions' which is technology related. Most of the videos are about solving issues related to mobile and PC. "
 	},
 	"awards": [
-		{
-			"awardDetail": "2nd Prize in Presentation about Ethical Hacking, Aagama 2k18-Anurag College."
-		},
 		{
 			"awardDetail": "IBM AI Engineering Professional Certification, Coursera"
 		},
